@@ -1,2 +1,2 @@
 # L7drift
-This page is to describe the effects of Landsat'7 orbit drift since 2017.
+This page is to describe the effect of Landsat'7 orbit drift since 2017.
