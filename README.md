@@ -14,4 +14,4 @@ Figure 1. Local acquisition time (left y-axis) and solar angles (right y-axis) o
 <img src="https://github.com/GERSL/L7Drift/blob/main/Fig7.png"/>
 Figure 2. Effect of Landsat 7’s orbit drift in 2019 and 2020. (a) Surface reflectance of spectral bands and their derived NDVI values. (b) TOA reflectance of spectral bands and their derived NDVI values. (c) BRDF normalized surface reflectance of spectral bands and their derived NDVI values.<br/><br/><br/>
 
-**Reference: Shi Qiu, Zhe Zhu, Rong Shang, and Christopher J. Crawford. Can Landsat 7 preserve its science capability with a drifting orbit?, Science of Remote Sensing, (2021), Under review**
+**Reference: [Qiu, S., Zhu, Z., Shang, R., & Crawford, C. J. (2021). Can Landsat 7 preserve its science capability with a drifting orbit?. Science of Remote Sensing, 100026.](https://doi.org/10.1016/j.srs.2021.100026)**
